@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 冉小虫
+title: 部署Hexo到GitHub
 subtitle: 冉冉
-description: 哼
-keywords: 测试
-author: 袁
+description: 测试部署Hexo到GitHub
+keywords: Hexo GitHub
+author: 袁清波
 language: 中文
 timezone:
 
